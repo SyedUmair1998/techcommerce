@@ -1,0 +1,9 @@
+.carousel li.slide img
+{
+    height: 600px;
+
+}
+.carousel .thumbs-wrapper
+{
+    display: none;
+}
